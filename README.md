@@ -1,7 +1,2 @@
 ## Ahsfalt
-Programmer, I tend to use C, Python and C# or Java if I hate myself\
-\
-\
-\
-\
-You will never catch me using Rust
+Programmer, I tend to use C, Python and C# or Java. I do not enjoy using C# or Java.
